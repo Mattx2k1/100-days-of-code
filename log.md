@@ -26,8 +26,9 @@
 
 **Thoughts**: As per the rules of this challenge I am starting over; but that's ok because I really wanted to do this challenge mainly with Python anyways. It's like my own personal little bootcamp to focus strictly on Python for the next 100 days. Life is crazy but I need to stay committed. 
 
-**Link(s) to work**: Nothing to share just yet, but in the future I will upload my code from completed exercises. I did run through yje w3schools quiz; here are my results:
-"{
+**Link(s) to work**: Nothing to share just yet, but in the future I will upload my code from completed exercises. I did run through the w3schools quiz; here are my results:
+
+
 Python Quiz Results
 Score: 20 of 25
 
@@ -41,7 +42,3 @@ Almost! Study a little more and take the test again!
 
 Time Spent
 6:35
-};
-
-"
-
