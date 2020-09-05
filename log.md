@@ -19,6 +19,15 @@
 
 **Link(s) to work**: [My SoloLearn Profile](https://www.sololearn.com/Profile/10118999)
 
+### Day 0: September 4th, 2020
+##### (Starting over)
+
+**Today's Progress**: Progress in my "Introduction to Computer Science and Programming Using Python" class through MITx EDX.
+
+**Thoughts**: As per the rules of this challenge I am starting over; but that's ok because I really wanted to do this challenge mainly with Python anyways. It's like my own personal little bootcamp to focus strictly on Python for the next 100 days. 
+
+**Link(s) to work**: Nothing to share just yet, but in the future I will upload my code from completed exercises.
+
 
 Tenplates below; will edit later
 --------
