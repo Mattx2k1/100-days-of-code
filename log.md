@@ -42,3 +42,13 @@ Almost! Study a little more and take the test again!
 
 Time Spent
 6:35
+
+### Day 0: September 7th, 2020
+##### (Starting over; for real this time)
+
+**Today's Progress**: I did some work in Python by following along with Head First Python. I've also progressed in my Python EDX class.
+
+**Thoughts**: I'm exhausted from a busy life and learning this stuff but still enjoying and trusting the process.
+
+**Link(s) to work**: https://github.com/Mattx2k1/Notes-for-basics (my general purpose notes folder & where I save my exercises) 
+
